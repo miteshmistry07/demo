@@ -1,4 +1,3 @@
 #Demo Project README
 
-This is bound to cause problems
-##heading 2
+Just something going on
